@@ -1,0 +1,14 @@
+Source: sai
+Priority: optional
+Maintainer: Cumulus Networks <dev-support@cumulusnetworks.com>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.5
+Section: libs
+Homepage: http://cumulusnetworks.com
+
+Package: sai-dev
+Section: libdevel
+Architecture: any
+Depends: ${misc:Depends}
+Description: Switch Abstraction Interface
+  Provides the headers for development with SAI APIs.
