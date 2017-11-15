@@ -1,1 +1,4 @@
-inc/* usr/include/sai/
+inc usr/include/sai/
+Doxyfile usr/include/sai/
+meta/*.h usr/include/sai/meta/
+meta/Doxyfile usr/include/sai/meta/
